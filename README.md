@@ -15,7 +15,7 @@
 > **후보정** 100%
 
 ### | 상세페이지 썸네일 |
-<img width="500" height="500" alt="1000-1" src="https://github.com/user-attachments/assets/b2494237-5567-4e11-a03c-e57ed1abf4dc" />  <img width="1000" height="1000" alt="1000-2" src="https://github.com/user-attachments/assets/ce636c64-92ce-4786-8501-20a5c0751b7d" />  <img width="1000" height="1000" alt="1000-4" src="https://github.com/user-attachments/assets/99088827-bc34-4115-940e-cd1a0aecce45" />  <img width="1000" height="1000" alt="1000-7" src="https://github.com/user-attachments/assets/69d8a560-6cd9-465b-bf59-9aa2cb72f6f1" />  <img width="1000" height="1000" alt="1000-9" src="https://github.com/user-attachments/assets/dcb44b0e-df67-4641-8bb2-5c6139b18488" /> 
+<img width="500" height="500" alt="1000-1" src="https://github.com/user-attachments/assets/b2494237-5567-4e11-a03c-e57ed1abf4dc" />  <img width="500" height="500" alt="1000-2" src="https://github.com/user-attachments/assets/ce636c64-92ce-4786-8501-20a5c0751b7d" />  <img width="500" height="500" alt="1000-4" src="https://github.com/user-attachments/assets/99088827-bc34-4115-940e-cd1a0aecce45" />  <img width="500" height="500" alt="1000-7" src="https://github.com/user-attachments/assets/69d8a560-6cd9-465b-bf59-9aa2cb72f6f1" />  <img width="500" height="500" alt="1000-9" src="https://github.com/user-attachments/assets/dcb44b0e-df67-4641-8bb2-5c6139b18488" /> 
 
 ### | 상세페이지 |
 <img width="860" height="2743" alt="860-1" src="https://github.com/user-attachments/assets/42dc23c6-1742-4a52-808a-d45bb4882a1e" />
